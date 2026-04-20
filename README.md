@@ -25,6 +25,14 @@ A machine learning project that classifies plant diseases from leaf images using
 
 ---
 
+## Results
+| Model | Val Accuracy |
+|---|---|
+| CNN from Scratch | 95.5% |
+| MobileNetV2 (Transfer Learning) | 98.3% |
+
+---
+
 ## Project Structure
 plant-disease-classifier/
 ├── data/               # Dataset (not tracked in git)
